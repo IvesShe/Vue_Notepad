@@ -2,6 +2,8 @@
 
 單純練習一下Vue
 
+[展示網站](https://ivesshe.github.io/Vue_Notepad/)
+
 # 安裝相關外掛
 
 Vetur
